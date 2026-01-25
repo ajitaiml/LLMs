@@ -1,0 +1,6 @@
+llm
+.env
+chroma_db/
+*.bin
+*.sqlite3
+.env
